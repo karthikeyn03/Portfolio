@@ -4,7 +4,7 @@
 
 Welcome to my portfolio repository!
 
-🔗 **Portfolio Website:** https://karthikeyn03.github.io/Portfolio/
+🔗 **Portfolio Website:** https://kaarthikeyn.github.io/Portfolio/
 
 ## About Me
 
